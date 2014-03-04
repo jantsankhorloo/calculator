@@ -1,7 +1,7 @@
 def calc(a, b, c):
     while True:
         try:
-            if b=='+':
+            if b == '+':
                 return a+c
             elif b == '-':
                 return a-c
@@ -9,11 +9,10 @@ def calc(a, b, c):
                 return a*c
             elif b == '/':
                 return a/c
-                break
+            else:
+                return 'Invalid operation'
         except:
-            return 'Well, shit!'
-            
-    
+            return 'Invalid input!'
  
         
         
