@@ -1,7 +1,7 @@
 Calculator
 ==========
 
-A rookie programming project on python by jman: "Calculator" 
+A rookie programming project on python by Jantsankhorloo: "Calculator" 
 
 A few notables are:
 
